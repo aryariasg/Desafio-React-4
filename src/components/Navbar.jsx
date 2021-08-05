@@ -24,9 +24,9 @@ export default function Navbar() {
             </ul>
         </div>
 
-        <div className = 'cart'>
+        {/* <div className = 'cart'>
                 <i class="fas fa-shopping-cart"></i>
-        </div>
+        </div> */}
         </div>
         </>
     )
